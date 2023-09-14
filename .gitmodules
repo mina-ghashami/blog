@@ -1,0 +1,4 @@
+[submodule "mina-ghashami-blog/public"]
+	path = mina-ghashami-blog/public
+	url = https://github.com/mina-ghashami/mina-ghashami.github.io.git
+	branch = main
